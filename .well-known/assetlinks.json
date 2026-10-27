@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.emilienlecoffre.locusmagnus",
       "sha256_cert_fingerprints": [
-        "68:C2:77:96:2A:FE:14:A6:80:29:F0:18:6F:75:BF:BC:B6:F5:6F:C2:16:D3:D3:ED:51:6F:ED:CD:85:6A:3E:28"
+        "68:C2:77:96:2A:FE:14:A6:80:29:F0:18:6F:75:BF:BC:B6:F5:6F:C2:16:D3:D3:ED:51:6F:ED:CD:85:6A:3E:28",
+        "67:B8:31:45:EE:4B:D2:96:22:CE:AB:FC:F1:DA:6D:EE:EE:46:ED:6A:1B:86:2D:35:17:75:2C:49:89:6A:D3:B2"
       ]
     }
   }
